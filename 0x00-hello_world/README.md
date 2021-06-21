@@ -1,1 +1,1 @@
-A first project on how to compile a c file with in gcc.
+This a hello world directory for a low level programming repo. Which ia the first project in the repository.
