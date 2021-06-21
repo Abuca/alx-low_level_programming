@@ -1,1 +1,0 @@
-A first project on how to compile a c file with in gcc.
