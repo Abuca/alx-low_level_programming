@@ -1,1 +1,1 @@
-This is a third directory in thye low level repo and it's about fuctions nested loops
+This is a function nested loops directory which is the third directory for the low level repo.
