@@ -6,8 +6,14 @@
  */
 void _puts(char *str)
 {
-    str = "I do not fear computers.I fear the lack of them - Isaac Asimov";
-    _puts(str);
-    _puts("\n");
-    return (0);
+char temp;
+int length = 0;
+while (*str != '\0')
+{
+temp = *str;
+_putchar(temp);
+length++;
+str++;
+}
+_putchar('\n');
 }
