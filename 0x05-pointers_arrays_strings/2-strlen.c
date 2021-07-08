@@ -1,16 +1,11 @@
 #include "holberton.h"
 /**
  * _strlen - check the code for Holberton School students.
- * @s: integer1
- * Return: Always 0.
+ * @s: an integer
+ * Return: the number of string
  */
 int _strlen(char *s)
 {
-int count;
-while (*s != '\0')
-{
-count++;
-s++;
-}
-return (count);
+    int count = strlen(s);
+    return(count);
 }
