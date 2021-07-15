@@ -1,6 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/**
+ * main - The main function.
+ *
+ * Return: Always zero
+ */
 int main(void)
 {
 	int n;
